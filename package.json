@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/jo/couchmagick",
   "dependencies": {
-    "couch-daemon": "^1.4.1",
+    "couch-daemon": "git+https://github.com/sitewaerts/couch-daemon.git",
     "strformat": "0.0.3",
     "docuri": "^1.1.0",
     "async": "^0.9.0",
